@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\alireza\documents\visual studio 2015\projects\fingerdetection\fingerdetection\source.cpp(118): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\alireza\documents\visual studio 2015\projects\fingerdetection\fingerdetection\source.cpp(120): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\alireza\documents\visual studio 2015\projects\fingerdetection\fingerdetection\source.cpp(122): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\alireza\documents\visual studio 2015\projects\fingerdetection\fingerdetection\source.cpp(383): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  FIngerDetection.vcxproj -> C:\Users\Alireza\documents\visual studio 2015\Projects\FIngerDetection\x64\Debug\FIngerDetection.exe
+  FIngerDetection.vcxproj -> C:\Users\Alireza\documents\visual studio 2015\Projects\FIngerDetection\x64\Debug\FIngerDetection.pdb (Full PDB)
